@@ -58,7 +58,7 @@ export default function Home() {
   <img src="../2.webp" alt="" className="absolute w-full h-full object-cover z-0" />
 
   {/* Glassy dark radial overlay */}
-  <div className="absolute inset-0 z-10 backdrop-blur-sm bg-black/50 bg-[radial-gradient(ellipse_at_center,_rgba(0,0,0,0.6)_0%,_rgba(0,0,0,0.9)_100%)]"></div>
+  <div className="absolute inset-0 z-10 backdrop-blur-sm bg-black/50 bg-[radial-gradient(ellipse_at_center,_rgba(0,0,0,0.5)_0%,_rgba(0,0,0,0.9)_100%)]"></div>
 
   <div className="container relative z-20 flex flex-col justify-center items-center h-full mx-auto text-center">
     <div className="max-w-4xl mx-auto">
@@ -365,13 +365,13 @@ export default function Home() {
                 platform.
               </p>
               <div className="flex space-x-4">
-                <Button size="sm" variant="ghost" className="text-gray-400 hover:text-white">
+                <Button size="sm" variant="ghost" className="text-gray-400 hover:text-black">
                   Facebook
                 </Button>
-                <Button size="sm" variant="ghost" className="text-gray-400 hover:text-white">
+                <Button size="sm" variant="ghost" className="text-gray-400 hover:text-black">
                   Instagram
                 </Button>
-                <Button size="sm" variant="ghost" className="text-gray-400 hover:text-white">
+                <Button size="sm" variant="ghost" className="text-gray-400 hover:text-black">
                   Twitter
                 </Button>
               </div>

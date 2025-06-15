@@ -159,7 +159,7 @@ const AboutUs = () => {
                 platform.
               </p>
               <div className="flex space-x-4">
-                <Button size="sm" variant="ghost" className="text-gray-400 hover:text-white">
+                <Button size="sm" variant="ghost" className="!text-gray-400 !hover:text-black duration-150">
                   Facebook
                 </Button>
                 <Button size="sm" variant="ghost" className="text-gray-400 hover:text-white">
