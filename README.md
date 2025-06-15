@@ -1,7 +1,7 @@
 GharDera 🏠🇳🇵
 GharDera is a mission-driven platform to help students from rural villages across Nepal — especially those coming to Kathmandu after Class 10 (SEE) and Class 12 (+2) — find affordable hostels, rooms, or rental spaces without brokers or hidden fees.
 
-Many students suffer from high brokerage charges, lack of verified listings, and the overwhelming task of navigating a new city. RoomFinder Nepal is built to solve these problems with technology and compassion.
+Many people suffer from high brokerage charges, lack of verified listings, and the overwhelming task of navigating a new city. GharDera is built to solve these problems with technology and compassion.
 
 🚀 Features
 🔍 Search and Filter: Find rooms or hostels based on location, price, amenities, and more.
@@ -13,7 +13,7 @@ Many students suffer from high brokerage charges, lack of verified listings, and
 🔐 User Accounts: Save favorite listings, post rooms, or manage listings securely.
 📢 Community Reviews: Share experiences and rate rooms or hostels.
 🎯 Target Audience
-Tenants coming to Kathmandu from rural areas of Nepal after SEE (Class 10) or +2 (Class 12).
+Tenants coming to Kathmandu from rural areas of Nepal.
 Families looking for safe, budget-friendly rooms for their children.
 Hostel owners and room landlords who want to directly connect with students.
 🛠️ Tech Stack
@@ -27,8 +27,8 @@ Authentication: Firebase Auth / JWT
 Hosting: Vercel / Netlify / Render / Heroku
 📦 Installation
 Step 1: Clone the Repository
-git clone https://github.com/yourusername/roomfinder-nepal.git
-cd roomfinder-nepal
+git clone https://github.com/primeitclub/the-newbies.git
+cd the-newbies
 Step 2: Install Dependencies
 npm install
 # or
